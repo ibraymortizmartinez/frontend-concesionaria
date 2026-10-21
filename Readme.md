@@ -51,6 +51,7 @@ El proyecto implementa un modelo desacoplado y multicapa que garantiza alta disp
 
 ## 3.Estructura de Archivos del Proyecto
 
+```text
 frontend-concesionaria/
 ├── index.html              # Estructura principal y maquetación semántica SPA
 ├── vercel.json             # Configuración de Reverse Proxy y reescritura de rutas
@@ -63,4 +64,5 @@ frontend-concesionaria/
     └── img/
         └── favicon.png     # Isotipo en formato PNG de alta resolución
 
+```
 ---
