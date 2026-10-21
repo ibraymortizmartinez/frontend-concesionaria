@@ -46,6 +46,7 @@ El proyecto implementa un modelo desacoplado y multicapa que garantiza alta disp
                              │  Engine: MySQL 8.0            │
                              │  Base de Datos Centralizada   │
                              └───────────────────────────────┘
+```
 ---
 
 ## 3.Estructura de Archivos del Proyecto
@@ -61,3 +62,5 @@ frontend-concesionaria/
     │   └── main.js         # Lógica de consumo de APIs, renderizado, filtros y comparador
     └── img/
         └── favicon.png     # Isotipo en formato PNG de alta resolución
+
+---
