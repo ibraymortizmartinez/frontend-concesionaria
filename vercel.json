@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/automoviles",
-      "destination": "http://54.234.117.248:5000/api/automoviles"
+      "destination": "http://13.222.187.251:5000/api/automoviles"
     },
     {
       "source": "/api/motocicletas",
